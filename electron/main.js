@@ -1,4 +1,5 @@
 'use strict'
+//this is my peeqo version
 
 const {app, BrowserWindow } = require('electron')
 const os = require('os')
